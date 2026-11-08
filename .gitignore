@@ -1,0 +1,8 @@
+.DS_Store
+
+# Generated per-server by `nixos-generate-config`. Never the same across
+# machines — keep it local, don't commit it to the shared repo.
+hardware-configuration.nix
+
+# Pin locally per-server; commit it on the box, don't push (see DEPLOYMENT.md).
+flake.lock
